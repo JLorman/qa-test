@@ -1,4 +1,4 @@
-# Talent Source QA Test
+# QA Engineer Test
 
 ## Instructions
 #### Setup
